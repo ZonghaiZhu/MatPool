@@ -1,0 +1,10 @@
+lr:1.e-04
+weight_decay:0.
+emb_dim:256.
+epoch_time:5.0111
+train_score:0.8802
+train_std:0.0341
+valid_score:0.8209
+valid_std:0.0103
+test_score:0.7916
+test_std:0.0073
